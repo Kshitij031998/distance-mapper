@@ -1,2 +1,2 @@
 # distance-mapper
-alexa skill lambda function to get the distance between two cities, currently for indian cities but can be extend to other countries
+Alexa skill lambda function to get the distance between two cities, currently for Indian cities but can be extended to other countries.
